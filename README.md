@@ -33,16 +33,4 @@ Da terminale:
 python main.py
 
 
----
 
-## Suggerimento didattico finale
-
-Questo repository è ideale per:
-- **prima esperienza con `git clone`**;
-- lettura guidata del codice;
-- collegamento con lezioni su `git pull` e `git push`.
-
-Se lo desidera, posso:
-- preparare una **scheda di lavoro per gli studenti**;
-- progettare una **verifica pratica** basata su questo repository;
-- creare una **versione con errori da correggere**.
